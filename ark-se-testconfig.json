@@ -2207,6 +2207,20 @@
         "EnumValues":{}
     },
     {
+        "DisplayName":"Lay Egg Interval Multiplier",
+        "Category":"ARK Multiplier Settings",
+        "Description":"Higher number increases (by percentage) time between eggs spawning / being laid",
+        "Keywords":"lay,egg,eggs,baby,interval,rate,multiplier,layeggintervalmultiplier",
+        "FieldName":"LayEggIntervalMultiplier",
+        "InputType":"number",
+        "IsFlagArgument":false,
+        "ParamFieldName":"/Script/ShooterGame.ShooterGameMode.LayEggIntervalMultiplier",
+        "IncludeInCommandLine":true,
+        "DefaultValue":"1.000000",
+        "Placeholder":"1.000000",
+        "EnumValues":{}
+    },
+    {
         "DisplayName":"Egg Hatch Speed Multiplier",
         "Category":"ARK Multiplier Settings",
         "Description":"Higher number decreases (by percentage) time needed for fertilized egg to hatch",
